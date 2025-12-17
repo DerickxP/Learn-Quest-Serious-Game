@@ -20,6 +20,21 @@ O jogo utiliza desafios progressivos que estimulam:
 O projeto se enquadra no gênero **Serious Game Educacional**, buscando ir além do entretenimento e atuar como uma **ferramenta de apoio ao desenvolvimento infantil**.
 
 ---
+## 📦 Builds do Projeto
+
+As versões executáveis do **Learn Quest – Serious Game Educacional 2D**
+estão disponíveis para download na página de Releases do GitHub:
+
+🔗 https://github.com/DerickxP/Learn-Quest-Serious-Game/releases
+
+### Plataformas disponíveis:
+- 🖥️ **PC (Windows)**
+- 📱 **Mobile (Android)**
+
+> As builds correspondem à versão final do projeto entregue como
+> Trabalho de Conclusão de Curso (TCC).
+
+---
 
 ## 👶 Público-Alvo
 
