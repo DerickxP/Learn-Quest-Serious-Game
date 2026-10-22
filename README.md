@@ -6,8 +6,6 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Speech--to--Text%20%7C%20Text--to--Speech-4285F4?logo=googlecloud&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-**[Baixar para Windows e Android](https://github.com/DerickxP/Learn-Quest-Serious-Game/releases)**
-
 Jogo **2D para PC e Android** que apoia o desenvolvimento motor, cognitivo e de fala de
 crianças com Síndrome de Down de 4 a 9 anos. São quatro minijogos com dificuldade
 progressiva; dois deles usam **IA generativa e reconhecimento de fala** para criar um
